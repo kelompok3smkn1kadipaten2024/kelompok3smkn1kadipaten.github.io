@@ -1,0 +1,57 @@
+body {
+    background-color: #f8f9fa;
+}
+.navbar {
+    background-color: #343a40;
+}
+.navbar-brand, .navbar-nav .nav-link {
+    color: #fff;
+}
+.home-container {
+    text-align: center;
+    margin-top: 50px;
+}
+.welcome-text {
+    font-size: 24px;
+    color: #495057;
+}
+.logout-btn {
+    background-color: #dc3545;
+    border: 1px solid #dc3545;
+    margin-top: 20px;
+}
+.logout-btn:hover {
+    background-color: #c82333;
+    border: 1px solid #c82333;
+}
+.table {
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    background-color: #eeeeee;
+    color: #000000;
+}
+
+.table th, .table td {
+    border: 1px solid #000000;
+    padding: 8px;
+    text-align: center;
+}
+
+.table th {
+    background-color: rgb(137, 207, 240);
+}
+
+ a {
+    text-decoration: none;
+    color: #495057;
+}
+
+ a:hover {
+    text-decoration: underline;
+}
+
+.add-link {
+    display: block;
+    margin-top: 20px;
+}
